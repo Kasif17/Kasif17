@@ -1,7 +1,8 @@
                                                                                   
   # 💫                   Mohd Kasif Khan  
 # 💫 About Me:
-I am a full-stack developer with a passion for backend technologies such as Node.js, Express, PostgreSQL, MongoDB, MySQL, and Nginx. I specialize in creating scalable, efficient, and secure server-side applications. Always eager to learn, I stay updated with the latest tech trends and am currently deepening my knowledge in Data Analysis, focusing on Machine Learning (ML) and Artificial Intelligence (AI). I thrive in dynamic environments and am excited about leveraging modern technology to tackle complex challenges.
+
+I am a full-stack developer with a passion for backend technologies such as Node.js, Express, PostgreSQL, MongoDB, MySQL, and Nginx. I specialize in creating scalable, efficient, and secure server-side applications. 
 
 
 ## 🌐 Socials:
